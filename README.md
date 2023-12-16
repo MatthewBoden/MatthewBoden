@@ -35,20 +35,6 @@
 </div>
 
 ###
-
-<h3 align="center">Profile Views</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MatthewBoden/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MatthewBoden/MatthewBoden/output/snake.svg" alt="Snake animation" />
-
-###
 <h3 align="center">🔗 Links</h3>
 <div align="center">
 
@@ -57,5 +43,14 @@
   
 </div> 
 
+###
+
+<h3 align="center">Profile Views</h3>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MatthewBoden/count.svg?"  />
+</div>
 
 
