@@ -1,9 +1,11 @@
-<h1 align="center">👋 HI I'M MATTHEW</h1>
-
-###
 <h3 align="center">Profile Views</h3>
 
 ###
+
+<h1 align="center">👋 HI I'M MATTHEW</h1>
+
+###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MatthewBoden/count.svg?"  />
