@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="center">What Languages I use</h3>
+<h2 align="center">What Languages I use</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 </div>
 
 ###
-<h3 align="center">🔗 Links</h3>
+<h2 align="center">🔗 Links</h2>
 <div align="center">
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://matthewboden.github.io/)
