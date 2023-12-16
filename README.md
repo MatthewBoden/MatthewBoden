@@ -36,11 +36,9 @@
 
 ###
 
-<h3 align="center">Links</h3>
-<div align="center">
+<h3 align="center">🔗 Links</h3>
   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://matthewboden.github.io/)
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-bodenstein/)
-</div>
 
 ###
 
