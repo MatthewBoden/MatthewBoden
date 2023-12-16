@@ -2,19 +2,15 @@
 <h1 align="center">👋 HI I'M MATTHEW</h1>
 
 ###
-
 <h2 align="center">About Me</h2>
 
 ###
-
 <h5 align="center">▀▄▀▄▀▄ 𝘐 𝘢𝘮 𝘢 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘣𝘢𝘴𝘦𝘥 𝘪𝘯 𝘛𝘰𝘳𝘰𝘯𝘵𝘰, 𝘊𝘢𝘯𝘢𝘥𝘢. ▀▄▀▄▀▄</h5>
 
 ###
-
 <h2 align="center">What Languages I use</h2>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -34,8 +30,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
-###
 
+###
 <h2 align="center">🔗 Links</h2>
 <div align="center">
 
@@ -43,8 +39,8 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-bodenstein/)
   
 </div> 
-###
 
+###
 <h2 align="center">Profile Visits</h2>
 
 <div align="center">
