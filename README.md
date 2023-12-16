@@ -1,10 +1,11 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MatthewBoden/count.svg?"  />
-</div>
+
+<h1 align="center">👋 HI I'M MATTHEW</h1>
 
 ###
 
-<h1 align="center">👋 HI I'M MATTHEW</h1>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MatthewBoden/count.svg?"  />
+</div>
 
 ###
 
