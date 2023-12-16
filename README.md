@@ -3,11 +3,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MatthewBoden/count.svg?"  />
-</div>
-
-###
 
 <h2 align="center">About Me</h2>
 
@@ -51,7 +46,13 @@
 </div> 
 
 ###
+<h2 align="center">Profile Visits</h2>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MatthewBoden/count.svg?"  />
+</div>
+
+###
 
 
 
