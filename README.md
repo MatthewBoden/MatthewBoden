@@ -1,5 +1,3 @@
-<h3 align="center">Profile Views</h3>
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/MatthewBoden/count.svg?"  />
 </div>
